@@ -72,6 +72,33 @@ This is your[User lab account](http://10.20.1.1:8090/)
 
 
 
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+
+**Writing Paragraphs**
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].  
+
+You can also use words, to fit your writing style more closely[^note].
+
+[^1]: My reference.
+[^2]: Every new line should be prefixed with 2 spaces.  
+  This allows you to have a footnote with multiple lines.
+[^note]:
+    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
+    This footnote also has been made with a different syntax using 4 spaces for new lines.
+    
+    
+    
+ <!-- This content will not appear in the rendered Markdown -->
+ 
+ **Ignoring Markdown formatting**
+ Let's rename \*our-new-project\* to \*our-old-project\*
+
+
+
+
 
 
 
