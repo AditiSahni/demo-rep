@@ -48,9 +48,10 @@ This is your[User lab account](http://10.20.1.1:8090/)
 
 
  ***This is how we make ordered list***
-2.  Aditi Sahni
-3.  Aditi Tewari
-4.  Anjali Sharma
+ 
+1.  Aditi Sahni
+2.  Aditi Tewari
+3.  Anjali Sharma
 
 
 
