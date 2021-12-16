@@ -9,12 +9,12 @@ some discription !
 
 ### My hometown is Haldwani.
 
-** This is a bold text**
-* This text is italicized*
-~~ This is a mistaken text~~
-** This text is 
+**This is a bold text**
+*This text is italicized*
+~~This is a mistaken text~~
+**This text is 
 _extremely_ important.
-*** All text is important.***
+***All text is important.***
 
 >Honesty is the best policy.
 
