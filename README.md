@@ -41,6 +41,14 @@ This is your[User lab account](http://10.20.1.1:8090/)
 
 
 
+
+ 1.  First list item
+     - First nested list item
+       - Second nested list item
+  
+
+
+
  **This is how we make unorderes list** 
 - Aditi
 - Deeksha
@@ -55,10 +63,7 @@ This is your[User lab account](http://10.20.1.1:8090/)
 
 
 
- 1.  First list item
-     - First nested list item
-       - Second nested list item
-  
+
 
 
 
