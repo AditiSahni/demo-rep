@@ -15,8 +15,8 @@ some discription !
 
 ~~This is a mistaken text~~
 
-** This text is 
-_extremely_ important.
+**This text is _extremely_ important.
+
 
 ***All text is important.***
 
