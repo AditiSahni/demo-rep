@@ -41,13 +41,13 @@ This is your[User lab account](http://10.20.1.1:8090/)
 
 
 
-- This is how we make unorderes list 
+ **This is how we make unorderes list** 
 - Aditi
 - Deeksha
 * Ritika
 
 
-1. This is how we make ordered list
+ ***This is how we make ordered list***
 2.  Aditi Sahni
 3.  Aditi Tewari
 4.  Anjali Sharma
@@ -55,9 +55,9 @@ This is your[User lab account](http://10.20.1.1:8090/)
 
 
 
-1. First list item
-   - First nested list item
-     - Second nested list item
+ 1. First list item
+    - First nested list item
+      - Second nested list item
 
 
 
