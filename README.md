@@ -15,7 +15,7 @@ some discription !
 
 ~~This is a mistaken text~~
 
-**This text is _extremely_ important.
+**This text is _extremely_ important**
 
 
 ***All text is important.***
@@ -41,10 +41,10 @@ This is your[User lab account](http://10.20.1.1:8090/)
 
 
 
--This is how we make unorderes list 
--Aditi
--Deeksha
--Ritika
+- This is how we make unorderes list 
+- Aditi
+- Deeksha
+* Ritika
 
 
 1. This is how we make ordered list
