@@ -62,7 +62,9 @@ This is your[User lab account](http://10.20.1.1:8090/)
 3.  Anjali Sharma
 
 
-- [x]Wake up early in the morning.
+
+
+- [x] Wake up early in the morning.
 - [ ] Do healthy breakfast.
 - [x] Take proper vitam D by siiting atleast 30 min in sunlight.
 - [ ] Study atleast 4 hours a day.
