@@ -76,6 +76,7 @@ This is your[User lab account](http://10.20.1.1:8090/)
 
 
 **Writing Paragraphs**
+
 Here is a simple footnote[^1].
 
 A footnote can also have multiple lines[^2].  
@@ -93,7 +94,9 @@ You can also use words, to fit your writing style more closely[^note].
     
  <!-- This content will not appear in the rendered Markdown -->
  
+ 
  **Ignoring Markdown formatting**
+ 
  Let's rename \*our-new-project\* to \*our-old-project\*
 
 
